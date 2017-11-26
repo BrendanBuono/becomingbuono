@@ -1,0 +1,14 @@
+- name: "St Thersea's Church"
+  time: "2:30pm - 4:00pm"
+  query: "St.+Thersea+Church,West+Roxbury+MA"
+  description: "The Doherty family Church of West Roxbury, St. Therseas will host the wedding Ceremony"
+
+- name: "Lakeview Pavilion"
+  time: "5:00pm - 10:00pm"
+  query: "Lakeview+Pavilion,Wrentham+MA"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+- name: "Renassiance Hotel"
+  time: "N/A"
+  query: "Patriot+Place,Foxboro+MA"
+  description: "The Renasaince Hotel in Foxboro will have a guest block reserved, please call 555-555-5555 and ask for the Buono-Doherty Block"

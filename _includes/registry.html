@@ -1,0 +1,21 @@
+
+<section id="registry">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Registry</h2>
+                <h3 class="section-subheading text-muted">Ceremony and Reception Details</h3>
+            </div>
+        </div>
+        <div class="row text-center">
+          {% for registry in site.data.registry %}
+            <div class="col-md-4">
+               <h2 class="service-heading">
+                   <a href="{{registry.link}}">{{ registry.name }}</a>
+                </h2>
+            </div>
+          {% endfor %}
+
+        </div>
+    </div>
+</section>

@@ -1,0 +1,59 @@
+- name: "Melissa McNeille"
+  bio: "Maid of Honor"
+  description: "Friends since 1st grade"
+  photo: mm.jpg
+
+- name: "Jeff Feely"
+  bio: "Co-Best Man"
+  description: "Friends since 1st grade"
+  photo: jf.jpg
+
+- name: "Tim Buono"
+  bio: "Co-Best Man"
+  description: "Friends since 1st grade"
+  photo: tb.jpg
+
+- name: "Jenna Gilberti"
+  bio: "Bridesmaid"
+  description: "Friends since 1st grade"
+  photo: jg.jpg
+
+- name: "Melissa Coughlin"
+  bio: "Bridesmaid"
+  description: "Friends since 1st grade"
+  photo: mc.jpg
+
+- name: "Alex Keefer"
+  bio: "Groomsman"
+  description: "Friends since 1st grade"
+  photo: ak.jpg
+
+- name: James Doherty"
+  bio: "Groomsman"
+  description: "Friends since 1st grade"
+  photo: jd.jpg
+
+- name: "Brian Doherty"
+  bio: "Groomsman"
+  description: "Friends since 1st grade"
+  photo: bd.jpg
+
+- name: "Kathleen Ryan"
+  bio: "Bridesmaid"
+  description: "Friends since 1st grade"
+  photo: kr.jpg
+
+- name: "Maria Buono"
+  bio: "Bridesmaid"
+  description: "Friends since 1st grade"
+  photo: mb.jpg
+
+- name: "Frankie Walsh"
+  bio: "Bridesmaid"
+  description: "Friends since 1st grade"
+  photo: fw.jpg
+
+- name: "Josh Cunningham"
+  bio: "Groomsman"
+  description: "Friends since 1st grade"
+  photo: jc.jpg
