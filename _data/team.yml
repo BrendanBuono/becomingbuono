@@ -3,6 +3,11 @@
   description: "Childhood friend, current roommate/bartender"
   photo: mm.jpg
 
+- name: "Jenna Gilberti"
+  bio: "Bridesmaid"
+  description: "Mutual birthday with the bride, bonded over middle school crushes"
+  photo: jg.jpg
+
 - name: "Jeff Feely"
   bio: "Best Man"
   description: "That guy that always seems to be around"
@@ -13,35 +18,25 @@
   description: "Brother of the Groom, country music guru"
   photo: tb.jpg
 
-- name: "Jenna Gilberti"
-  bio: "Bridesmaid"
-  description: "Mutual birthday with the bride, bonded over middle school crushes"
-  photo: jg.jpg
-
 - name: "Melissa Coughlin"
   bio: "Bridesmaid"
   description: "Kindergarten buddy, fellow stressed out teacher"
   photo: mc.png
 
-- name: "Alex Keefer"
-  bio: "Groomsman"
-  description: "Mr. Stonehill participant, refers to Katie as 'girl'"
-  photo: ak.jpg
-
-- name: "James Doherty"
-  bio: "Groomsman"
-  description: "Brother of the Bride, works hard, plays harder"
-  photo: jd.jpg
+- name: "Kathleen Ryan"
+  bio: "Bridesmaid"
+  description: "Kindergarten bus buddy, friends due to sharing a name with the bride"
+  photo: kr.jpg
 
 - name: "Brian Doherty"
   bio: "Groomsman"
   description: "Brother of the Bride, runner of marathons"
   photo: bd.jpg
 
-- name: "Kathleen Ryan"
-  bio: "Bridesmaid"
-  description: "Kindergarten bus buddy, friends due to sharing a name with the bride"
-  photo: kr.jpg
+- name: "James Doherty"
+  bio: "Groomsman"
+  description: "Brother of the Bride, works hard, plays harder"
+  photo: jd.jpg
 
 - name: "Maria Buono"
   bio: "Bridesmaid"
@@ -53,6 +48,11 @@
   description: "Fellow Bumpin' Boland Survivor"
   photo: fw.jpg
 
+- name: "Alex Keefer"
+  bio: "Groomsman"
+  description: "Mr. Stonehill participant, refers to Katie as 'girl'"
+  photo: ak.jpg
+  
 - name: "Josh Cunningham"
   bio: "Groomsman"
   description: "High school buddy, college roommate, fellow video game nerd"
