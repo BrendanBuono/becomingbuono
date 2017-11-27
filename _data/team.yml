@@ -1,59 +1,59 @@
 - name: "Melissa McNeille"
   bio: "Maid of Honor"
-  description: "Friends since 1st grade"
+  description: "Childhood friend, current roommate/bartender"
   photo: mm.jpg
 
 - name: "Jeff Feely"
   bio: "Co-Best Man"
-  description: "Friends since 1st grade"
+  description: "That guy that always seems to be around"
   photo: jf.jpg
 
 - name: "Tim Buono"
   bio: "Co-Best Man"
-  description: "Friends since 1st grade"
+  description: "Brother of the Groom"
   photo: tb.jpg
 
 - name: "Jenna Gilberti"
   bio: "Bridesmaid"
-  description: "Friends since 1st grade"
+  description: "Mutual birthday with the bride, bonded over middle school crushes"
   photo: jg.jpg
 
 - name: "Melissa Coughlin"
   bio: "Bridesmaid"
-  description: "Friends since 1st grade"
+  description: "Kindergarten buddy, fellow stressed out tecacher"
   photo: mc.jpg
 
 - name: "Alex Keefer"
   bio: "Groomsman"
-  description: "Friends since 1st grade"
+  description: "Mr. Stonehill participant, refers to Katie as 'girl'"
   photo: ak.jpg
 
 - name: "James Doherty"
   bio: "Groomsman"
-  description: "Friends since 1st grade"
+  description: "Brother of the Bride"
   photo: jd.jpg
 
 - name: "Brian Doherty"
   bio: "Groomsman"
-  description: "Friends since 1st grade"
+  description: "Brother of the Bride"
   photo: bd.jpg
 
 - name: "Kathleen Ryan"
   bio: "Bridesmaid"
-  description: "Friends since 1st grade"
+  description: "Kindergarten bus buddy, friends due to sharing a name with the bride"
   photo: kr.jpg
 
 - name: "Maria Buono"
   bio: "Bridesmaid"
-  description: "Friends since 1st grade"
+  description: "Sister of the Groom"
   photo: mb.jpg
 
 - name: "Frankie Walsh"
   bio: "Bridesmaid"
-  description: "Friends since 1st grade"
+  description: "Fellow Bumpin' Boland Survivor"
   photo: fw.jpg
 
 - name: "Josh Cunningham"
   bio: "Groomsman"
-  description: "Friends since 1st grade"
+  description: "High school buddy, college roommate, fellow video game nerd"
   photo: jc.jpg
