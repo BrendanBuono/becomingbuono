@@ -4,13 +4,13 @@
   photo: mm.jpg
 
 - name: "Jeff Feely"
-  bio: "Co-Best Man"
+  bio: "Best Man"
   description: "That guy that always seems to be around"
   photo: jf.jpg
 
 - name: "Tim Buono"
-  bio: "Co-Best Man"
-  description: "Brother of the Groom"
+  bio: "Best Man"
+  description: "Brother of the Groom, country music guru"
   photo: tb.jpg
 
 - name: "Jenna Gilberti"
@@ -20,8 +20,8 @@
 
 - name: "Melissa Coughlin"
   bio: "Bridesmaid"
-  description: "Kindergarten buddy, fellow stressed out tecacher"
-  photo: mc.jpg
+  description: "Kindergarten buddy, fellow stressed out teacher"
+  photo: mc.png
 
 - name: "Alex Keefer"
   bio: "Groomsman"
@@ -30,12 +30,12 @@
 
 - name: "James Doherty"
   bio: "Groomsman"
-  description: "Brother of the Bride"
+  description: "Brother of the Bride, works hard, plays harder"
   photo: jd.jpg
 
 - name: "Brian Doherty"
   bio: "Groomsman"
-  description: "Brother of the Bride"
+  description: "Brother of the Bride, runner of marathons"
   photo: bd.jpg
 
 - name: "Kathleen Ryan"
@@ -45,7 +45,7 @@
 
 - name: "Maria Buono"
   bio: "Bridesmaid"
-  description: "Sister of the Groom"
+  description: "Sister of the Groom, most excited about post wedding brunch"
   photo: mb.jpg
 
 - name: "Frankie Walsh"
