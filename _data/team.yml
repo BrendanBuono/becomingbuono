@@ -3,10 +3,10 @@
   description: "Childhood friend, current roommate/bartender"
   photo: mm.jpg
 
-- name: "Jenna Gilberti"
+- name: "Maria Buono"
   bio: "Bridesmaid"
-  description: "Mutual birthday with the bride, bonded over middle school crushes"
-  photo: jg.jpg
+  description: "Sister of the Groom, most excited about post wedding brunch"
+  photo: mb.jpg
 
 - name: "Jeff Feely"
   bio: "Best Man"
@@ -38,10 +38,10 @@
   description: "Brother of the Bride, works hard, plays harder"
   photo: jd.jpg
 
-- name: "Maria Buono"
+- name: "Jenna Gilberti"
   bio: "Bridesmaid"
-  description: "Sister of the Groom, most excited about post wedding brunch"
-  photo: mb.jpg
+  description: "Mutual birthday with the bride, bonded over middle school crushes"
+  photo: jg.jpg
 
 - name: "Frankie Walsh"
   bio: "Bridesmaid"
