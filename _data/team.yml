@@ -18,15 +18,6 @@
   description: "Brother of the Groom, country music guru"
   photo: tb.jpg
 
-- name: "Melissa Coughlin"
-  bio: "Bridesmaid"
-  description: "Kindergarten buddy, fellow stressed out teacher"
-  photo: mc.png
-
-- name: "Kathleen Ryan"
-  bio: "Bridesmaid"
-  description: "Kindergarten bus buddy, friends due to sharing a name with the bride"
-  photo: kr.jpg
 
 - name: "Brian Doherty"
   bio: "Groomsman"
@@ -37,6 +28,16 @@
   bio: "Groomsman"
   description: "Brother of the Bride, works hard, plays harder"
   photo: jd.jpg
+  
+- name: "Melissa Coughlin"
+  bio: "Bridesmaid"
+  description: "Kindergarten buddy, fellow stressed out teacher"
+  photo: mc.png
+
+- name: "Kathleen Ryan"
+  bio: "Bridesmaid"
+  description: "Kindergarten bus buddy, friends due to sharing a name with the bride"
+  photo: kr.jpg
 
 - name: "Jenna Gilberti"
   bio: "Bridesmaid"
